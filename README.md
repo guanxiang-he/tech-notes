@@ -7,7 +7,7 @@
 
 个人日常科研、工程实践与工具使用技术笔记仓库，所有内容开源免费阅读，持续更新。
 
-> 🔗 **关联项目仓库**：关于“西门子杯”离散行业自动化 **六部十层电梯群控系统（S7-1200 PLC + WinCC）** 的完整 11 篇系列文档，请访问独立项目仓库：`siemens-cup-elevator-group-control`。
+> 🔗 **关联项目仓库**：关于“西门子杯”离散行业自动化 **六部十层电梯群控系统（S7-1200 PLC + WinCC）** 的完整 11 篇系列文档，请访问独立项目仓库：[h491218554-creator/siemens-cup-elevator-group-control](https://github.com/h491218554-creator/siemens-cup-elevator-group-control)。
 
 ---
 
